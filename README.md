@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repository](https://github.com/RafisElias/nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://sage-gumption-203c2d.netlify.app/](https://sage-gumption-203c2d.netlify.app/)
 
 ## My process
 
